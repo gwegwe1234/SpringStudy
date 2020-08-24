@@ -1,12 +1,10 @@
 package com.gwegwe.springboot;
 
-import com.autoconfigure.Holoman;
+import org.apache.catalina.LifecycleException;
+import org.springframework.boot.Banner.Mode;
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.SpringBootConfiguration;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.boot.WebApplicationType;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 /*
@@ -22,8 +20,39 @@ spring.factories 에 자동설정 관련된 값들이 설정돼있다
 */
 public class Application {
 
-  public static void main(String[] args) {
-    SpringApplication.run(Application.class, args);
+  public static void main(String[] args) throws LifecycleException {
+//    SpringApplication.run(Application.class, args);
+    SpringApplication app = new SpringApplication(Application.class);
+    app.addListeners(new SampleStartingListener());
+    // WebApplicationType은 기본이 Servlet(mvc) 이다. Reactive 쓰고싶으면 타입을 바꿔준다.
+    app.setWebApplicationType(WebApplicationType.SERVLET);
+    app.setBannerMode(Mode.OFF);
+    app.run(args);
+
+
+    // 이런식으로 톰캣 설정을 해서 띄울수도 있다.
+    // 근데 당연히 귀찮으니까 EnableAutoConfiguration에 있는 ServletWebServerFactoryAutoConfiguration 요기서 설정해준다.
+    // DispatcherServletAutoConfiguration 에서 서블릿 만든거 등록해준다
+//    Tomcat tomcat = new Tomcat();
+//    tomcat.setPort(8080);
+//
+//    Context context = tomcat.addContext("/", "/");
+//
+//    HttpServlet httpServlet = new HttpServlet() {
+//      @Override
+//      protected void doGet(HttpServletRequest req, HttpServletResponse resp)
+//          throws ServletException, IOException {
+//        PrintWriter writer = resp.getWriter();
+//        writer.println("<html><head><title>Hey, Tomcat</title></head><body>gdgd</body>");
+//      }
+//    };
+//
+//    String servletName = "Hello Servlet";
+//    tomcat.addServlet("/", servletName, httpServlet);
+//    context.addServletMappingDecoded("/hello", servletName);
+//    tomcat.start();
+//    tomcat.getServer().await();
+
   }
 
   /*
