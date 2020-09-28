@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class UserController {
 
 //  Spring boot에선 #WebMvcAutoConfiguration 을 자동으로 설정해 줘서 특별한 설정 없이 WebMvc 사용이 가능하다.
-  @GetMapping("/hello")
+  @GetMapping("/helloUser")
   public String hello() {
     return "hello";
   }
@@ -30,6 +30,4 @@ public class UserController {
   public User createUsers(@RequestBody  User user) {
     return user;
   }
-
-
 }
