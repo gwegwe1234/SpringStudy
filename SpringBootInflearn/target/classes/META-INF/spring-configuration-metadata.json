@@ -1,0 +1,34 @@
+{
+  "groups": [
+    {
+      "name": "biglight",
+      "type": "com.gwegwe.springboot.BigLightProperties",
+      "sourceType": "com.gwegwe.springboot.BigLightProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "biglight.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.gwegwe.springboot.BigLightProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "biglight.duration",
+      "type": "java.time.Duration",
+      "sourceType": "com.gwegwe.springboot.BigLightProperties",
+      "defaultValue": "30s"
+    },
+    {
+      "name": "biglight.full-name",
+      "type": "java.lang.String",
+      "sourceType": "com.gwegwe.springboot.BigLightProperties"
+    },
+    {
+      "name": "biglight.name",
+      "type": "java.lang.String",
+      "sourceType": "com.gwegwe.springboot.BigLightProperties"
+    }
+  ],
+  "hints": []
+}

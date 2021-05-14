@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b95bcc4-0b0b-4acb-ae26-279666322a19" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1i64pOklFw8R4A4ckXNP0rzVumr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gwegwe.springboot.user" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MogoAccountRepositoryTest.findById">
+    <configuration name="HateoasControllerTest.hateoasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gwegwe.springboot.hateoas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gwegwe.springboot.hateoas" />
+      <option name="MAIN_CLASS_NAME" value="com.gwegwe.springboot.hateoas.HateoasControllerTest" />
+      <option name="METHOD_NAME" value="hateoasTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpaTest.di" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gwegwe.springboot.jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gwegwe.springboot.jpa" />
+      <option name="MAIN_CLASS_NAME" value="com.gwegwe.springboot.jpa.JpaTest" />
+      <option name="METHOD_NAME" value="di" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MogoAccountRepositoryTest.findById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gwegwe.springboot.mogodb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gwegwe.springboot.mogodb" />
+      <option name="MAIN_CLASS_NAME" value="com.gwegwe.springboot.mogodb.MogoAccountRepositoryTest" />
+      <option name="METHOD_NAME" value="findById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThymeleafTest.helloThymeleaf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gwegwe.springboot.thymeleaf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gwegwe.springboot.thymeleaf" />
+      <option name="MAIN_CLASS_NAME" value="com.gwegwe.springboot.thymeleaf.ThymeleafTest" />
+      <option name="METHOD_NAME" value="helloThymeleaf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest.createUser_XML" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gwegwe.springboot.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gwegwe.springboot.user" />
+      <option name="MAIN_CLASS_NAME" value="com.gwegwe.springboot.user.UserControllerTest" />
+      <option name="METHOD_NAME" value="createUser_XML" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gwegwe.springboot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MogoAccountRepositoryTest.findById" />
+        <item itemvalue="JUnit.JpaTest.di" />
+        <item itemvalue="JUnit.HateoasControllerTest.hateoasTest" />
+        <item itemvalue="JUnit.ThymeleafTest.helloThymeleaf" />
+        <item itemvalue="JUnit.UserControllerTest.createUser_XML" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b95bcc4-0b0b-4acb-ae26-279666322a19" name="Default Changelist" comment="" />
+      <created>1601214462516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601214462516</updated>
+      <workItem from="1601214465251" duration="343000" />
+      <workItem from="1601214895755" duration="62000" />
+      <workItem from="1601215089681" duration="90000" />
+      <workItem from="1601215201217" duration="21110000" />
+      <workItem from="1601555852529" duration="97000" />
+      <workItem from="1601556159398" duration="206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1240" y="173" key="#Plugins" timestamp="1601215270240">
+      <screen x="-1680" y="0" width="1680" height="1050" />
+    </state>
+    <state x="-1240" y="173" key="#Plugins/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601215270240" />
+    <state x="-1027" y="216" key="#com.intellij.ide.util.MemberChooser" timestamp="1601382338669">
+      <screen x="-1680" y="0" width="1680" height="1050" />
+    </state>
+    <state x="-1027" y="216" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601382338669" />
+    <state x="-1070" y="401" width="460" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601374024728">
+      <screen x="-1680" y="0" width="1680" height="1050" />
+    </state>
+    <state x="-1070" y="401" width="460" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601374024728" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1601555828767">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601426215181" />
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom/0.23.2560.1417/-1632.23.1632.1027@-1632.23.1632.1027" timestamp="1601422810674" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/64.23.2496.1417@64.23.2496.1417" timestamp="1601555828767" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1601555828767">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.center/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601426215179" />
+    <state width="1638" height="363" key="GridCell.Tab.0.center/0.23.2560.1417/-1632.23.1632.1027@-1632.23.1632.1027" timestamp="1601422810664" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/64.23.2496.1417@64.23.2496.1417" timestamp="1601555828767" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1601555828766">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.left/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601426215179" />
+    <state width="1638" height="363" key="GridCell.Tab.0.left/0.23.2560.1417/-1632.23.1632.1027@-1632.23.1632.1027" timestamp="1601422810663" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/64.23.2496.1417@64.23.2496.1417" timestamp="1601555828766" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1601555828767">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.right/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601426215180" />
+    <state width="1638" height="363" key="GridCell.Tab.0.right/0.23.2560.1417/-1632.23.1632.1027@-1632.23.1632.1027" timestamp="1601422810673" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/64.23.2496.1417@64.23.2496.1417" timestamp="1601555828767" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1601555828761">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601426215183" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.23.2560.1417/-1632.23.1632.1027@-1632.23.1632.1027" timestamp="1601422810775" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/64.23.2496.1417@64.23.2496.1417" timestamp="1601555828761" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1601555828760">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601426215182" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.23.2560.1417/-1632.23.1632.1027@-1632.23.1632.1027" timestamp="1601422810773" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center/64.23.2496.1417@64.23.2496.1417" timestamp="1601555828760" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1601555828759">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601426215181" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.23.2560.1417/-1632.23.1632.1027@-1632.23.1632.1027" timestamp="1601422810772" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left/64.23.2496.1417@64.23.2496.1417" timestamp="1601555828759" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1601555828760">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601426215183" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.23.2560.1417/-1632.23.1632.1027@-1632.23.1632.1027" timestamp="1601422810774" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right/64.23.2496.1417@64.23.2496.1417" timestamp="1601555828760" />
+    <state width="1638" height="363" key="GridCell.Tab.2.bottom" timestamp="1601555828764">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.2.bottom/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601426215186" />
+    <state width="1638" height="363" key="GridCell.Tab.2.bottom/0.23.2560.1417/-1632.23.1632.1027@-1632.23.1632.1027" timestamp="1601422810680" />
+    <state width="1638" height="363" key="GridCell.Tab.2.bottom/64.23.2496.1417@64.23.2496.1417" timestamp="1601555828764" />
+    <state width="1638" height="363" key="GridCell.Tab.2.center" timestamp="1601555828763">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.2.center/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601426215185" />
+    <state width="1638" height="363" key="GridCell.Tab.2.center/0.23.2560.1417/-1632.23.1632.1027@-1632.23.1632.1027" timestamp="1601422810678" />
+    <state width="1638" height="363" key="GridCell.Tab.2.center/64.23.2496.1417@64.23.2496.1417" timestamp="1601555828763" />
+    <state width="1638" height="363" key="GridCell.Tab.2.left" timestamp="1601555828763">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.2.left/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601426215184" />
+    <state width="1638" height="363" key="GridCell.Tab.2.left/0.23.2560.1417/-1632.23.1632.1027@-1632.23.1632.1027" timestamp="1601422810678" />
+    <state width="1638" height="363" key="GridCell.Tab.2.left/64.23.2496.1417@64.23.2496.1417" timestamp="1601555828763" />
+    <state width="1638" height="363" key="GridCell.Tab.2.right" timestamp="1601555828763">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.2.right/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601426215185" />
+    <state width="1638" height="363" key="GridCell.Tab.2.right/0.23.2560.1417/-1632.23.1632.1027@-1632.23.1632.1027" timestamp="1601422810679" />
+    <state width="1638" height="363" key="GridCell.Tab.2.right/64.23.2496.1417@64.23.2496.1417" timestamp="1601555828763" />
+    <state x="-1302" y="187" key="Maven.ArtifactSearchDialog" timestamp="1601299382778">
+      <screen x="-1680" y="0" width="1680" height="1050" />
+    </state>
+    <state x="-1302" y="187" key="Maven.ArtifactSearchDialog/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601299382778" />
+    <state x="1082" y="147" key="SettingsEditor" timestamp="1601556347660">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="-1339" y="164" key="SettingsEditor/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601215532945" />
+    <state x="1082" y="147" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1601556347660" />
+    <state x="-1139" y="280" width="598" height="490" key="find.popup" timestamp="1601423128639">
+      <screen x="-1680" y="0" width="1680" height="1050" />
+    </state>
+    <state x="-1139" y="280" width="598" height="490" key="find.popup/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601423128639" />
+    <state x="-1175" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1601300382110">
+      <screen x="-1680" y="0" width="1680" height="1050" />
+    </state>
+    <state x="-1175" y="233" width="670" height="676" key="search.everywhere.popup/0.0.2560.1440/-1680.0.1680.1050@-1680.0.1680.1050" timestamp="1601300382110" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gwegwe/springboot/user/UserController.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gwegwe/springboot/user/UserControllerTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gwegwe/springboot/thymeleaf/ThymeleafController.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springboot</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
